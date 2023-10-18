@@ -16,7 +16,7 @@ function loginForm() {
         <br>
         <hr>
         <h3>About MobiChat:</h3>
-        <p>This is a simple chat app that allows you to chat with other users of vintage mobile phones.</p>
+        <p>This is an online chatroom that is designed specifically for vintage mobile phones.</p>
         <p>The chat log clears after 24 hours of inactivity.</p>
         <p>Although I co-own <a href="http://lunarproject.org" target="_blank">Lunar Project</a>, this app is not a part of it and is its own entity.</p>
         <hr>

@@ -23,7 +23,7 @@ function loginForm() {
         <h3>One More Thing...</h3>
         <p>Please keep conversations civil, the world is already crazy enough as it is. :)</p>
         <hr>
-        <img width="24" src="images/chat.png" alt="MobiChat Logo"/>
+        <img width="40" src="images/chat.png" alt="MobiChat Logo"/>
         <p>Created by <a href="https://github.com/johnspahr/" target="_blank">John Spahr</a>. Based on <a href="https://github.com/E-H-Q/PHP-chat-system/" target="_blank">this app</a>.</p>
    </form>
    </div>

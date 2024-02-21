@@ -1,5 +1,5 @@
 # MobiChat
-Simple PHP chatroom app designed for vintage mobile phone browsers. <a href="http://chat.johnspahr.org" target="_blank">Live Demo</a>
+Simple PHP chatroom app designed for vintage mobile phone browsers. 
 
 <img src="screenshot.png" alt="MobiChat Screenshot"/>
 
